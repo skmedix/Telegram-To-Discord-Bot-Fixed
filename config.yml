@@ -1,0 +1,17 @@
+# This has to be an integer. Read more [here](https://core.telegram.org/api/obtaining_api_id) | No quotes
+api_id: 11111111
+
+# Long 32 characters hash identifier. Read more [here](https://core.telegram.org/api/obtaining_api_id) | With quotes
+api_hash: '11111111111111111111111111111111' 
+
+# Discord Bot Token. Go create a bot on discord. | No quotes
+discord_bot_token: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+# Discord Channel ID, may need to enable discord developer mode in settings. | No quotes
+discord_channel: 111111111111111111
+
+# The channels that you'd like to forward messages from. Input telegram channel names here.
+# The user running the client must have these channels present on it's dialogs.
+input_channel_names:
+  - 'Telegram Channel 1'
+  - 'Telegram Channel 2'
