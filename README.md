@@ -11,9 +11,8 @@ Please Join Support & FAQ Discord if you have questions.
 ```
 # Telegram to Discord Message Bot — Forward Telegram Messages to Discord 
 
-<img src="https://img.shields.io/badge/Status-works%20after%20lot%20of%20debugging-red"> <img src="https://img.shields.io/badge/Python%20Skill-intermediate%20-brightgreen"> 
+<img src="https://img.shields.io/badge/Status-works%20after%20little%20debugging-orange"> <img src="https://img.shields.io/badge/Python%20Skill-intermediate%20-brightgreen"> 
 
-* This repo will soon be archived and won't be supported. 
 * Advanced python users post your debug queries here : <a href="https://discord.gg/wkznBbgBFD"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="25" height="25"></img></a>
 
 
