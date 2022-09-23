@@ -24,7 +24,8 @@ for d in client.iter_dialogs():
         break
 
 #TELEGRAM NEW MESSAGE
-@client.on(events.NewMessage())
+input_channels_entities = [input_channel]
+@client.on(events.NewMessage(chats=input_channels_entities))
 async def handler(event):
     # If the message contains a URL, parse and send Message + URL
     try:
